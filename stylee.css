@@ -4,10 +4,14 @@ h1{
     font-family: 'Courier New', Courier, monospace;
 }
 img{
-    height: 200px;
-    width: 300px;
+    height: 450px;
+    width: 400px;
     border: 4px dotted rebeccapurple;
 }
 p{
     font-size: 23px;
+}
+#ab{
+    font-size: 30px;
+
 }

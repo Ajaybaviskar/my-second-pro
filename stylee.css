@@ -3,3 +3,11 @@ h1{
     font-size: 60px;
     font-family: 'Courier New', Courier, monospace;
 }
+img{
+    height: 200px;
+    width: 300px;
+    border: 4px dotted rebeccapurple;
+}
+p{
+    font-size: 23px;
+}
